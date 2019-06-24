@@ -1,0 +1,8 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/dedeandres/DANA_Project/danainstant_be_services/conf/logback.xml,/Users/dedeandres/DANA_Project/danainstant_be_services/target/scala-2.12/classes/logback.xml)
+[debug] 	(/Users/dedeandres/DANA_Project/danainstant_be_services/conf/schema.graphql,/Users/dedeandres/DANA_Project/danainstant_be_services/target/scala-2.12/classes/schema.graphql)
+[debug] 	(/Users/dedeandres/DANA_Project/danainstant_be_services/conf/application.conf,/Users/dedeandres/DANA_Project/danainstant_be_services/target/scala-2.12/classes/application.conf)
+[debug] 	(/Users/dedeandres/DANA_Project/danainstant_be_services/conf/evolutions,/Users/dedeandres/DANA_Project/danainstant_be_services/target/scala-2.12/classes/evolutions)
+[debug] 	(/Users/dedeandres/DANA_Project/danainstant_be_services/conf/evolutions/default,/Users/dedeandres/DANA_Project/danainstant_be_services/target/scala-2.12/classes/evolutions/default)
+[debug] 	(/Users/dedeandres/DANA_Project/danainstant_be_services/conf/evolutions/default/1.sql,/Users/dedeandres/DANA_Project/danainstant_be_services/target/scala-2.12/classes/evolutions/default/1.sql)
+[debug] 	(/Users/dedeandres/DANA_Project/danainstant_be_services/conf/routes,/Users/dedeandres/DANA_Project/danainstant_be_services/target/scala-2.12/classes/routes)

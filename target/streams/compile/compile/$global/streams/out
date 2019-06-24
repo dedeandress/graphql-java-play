@@ -1,0 +1,6 @@
+[error] /Users/dedeandres/DANA_Project/danainstant_be_services/app/controllers/GraphQLController.java:45:1: method resolvers in class com.coxautodev.graphql.tools.SchemaParserBuilder cannot be applied to given types;
+[error]   required: com.coxautodev.graphql.tools.GraphQLResolver<?>[]
+[error]   found: resolvers.Query,resolvers.Mutation
+[error]   reason: varargs mismatch; resolvers.Mutation cannot be converted to com.coxautodev.graphql.tools.GraphQLResolver<?>
+[error]                 .resolvers(new Query(), new Mutation())
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output

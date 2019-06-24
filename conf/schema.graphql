@@ -1,0 +1,20 @@
+type Borrrower{
+    name: String!
+    email: String!
+}
+
+type Mutation{
+    createBorrower(name: String!, email: String!): Borrrower
+    deleteBorrower(name: String!): Borrrower
+    updateBorrower(nameNow: String!, updateName: String!, email: String): Borrrower
+}
+
+
+type Query{
+    getBorrower: [Borrrower]
+}
+
+schema {
+    query: Query
+    mutation: Mutation
+}

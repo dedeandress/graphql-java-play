@@ -1,0 +1,6 @@
+#FileLock
+#Mon Jun 24 16:46:01 WIB 2019
+hostName=192.168.4.175
+id=16b88e0c957ef34340c3d12910bba2f5b5d5072f1c3
+method=file
+server=192.168.4.175\:53071
